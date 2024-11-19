@@ -1,0 +1,23 @@
+[
+  {
+    "marca": "HP",
+    "modelo": "Pavilion",
+    "memoria": 8,
+    "discoDuro": 512,
+    "procesador": "Intel i5"
+  },
+  {
+    "marca": "Asus",
+    "modelo": "VivoBook",
+    "memoria": 16,
+    "discoDuro": 1024,
+    "procesador": "AMD Ryzen 7"
+  },
+  {
+    "marca": "Apple",
+    "modelo": "MacBook Pro",
+    "memoria": 16,
+    "discoDuro": 1024,
+    "procesador": "Apple M1"
+  }
+]
