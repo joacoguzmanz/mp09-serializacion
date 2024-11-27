@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="22.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Ordenador">
+    <void property="discoDuro">
+     <int>512</int>
+    </void>
+    <void property="marca">
+     <string>Apple</string>
+    </void>
+    <void property="memoria">
+     <int>16</int>
+    </void>
+    <void property="modelo">
+     <string>MacBook Pro</string>
+    </void>
+    <void property="numSerie">
+     <string>123456</string>
+    </void>
+    <void property="procesador">
+     <string>Intel Core i7</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Ordenador">
+    <void property="discoDuro">
+     <int>256</int>
+    </void>
+    <void property="marca">
+     <string>Asus</string>
+    </void>
+    <void property="memoria">
+     <int>8</int>
+    </void>
+    <void property="modelo">
+     <string>ZenBook</string>
+    </void>
+    <void property="numSerie">
+     <string>654321</string>
+    </void>
+    <void property="procesador">
+     <string>Intel Core i5</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

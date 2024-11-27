@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="22.0.1" class="java.beans.XMLDecoder">
+ <object class="Ordenador">
+  <void property="discoDuro">
+   <int>512</int>
+  </void>
+  <void property="marca">
+   <string>Apple</string>
+  </void>
+  <void property="memoria">
+   <int>16</int>
+  </void>
+  <void property="modelo">
+   <string>MacBook Pro</string>
+  </void>
+  <void property="numSerie">
+   <string>123456</string>
+  </void>
+  <void property="procesador">
+   <string>Intel Core i7</string>
+  </void>
+ </object>
+</java>
