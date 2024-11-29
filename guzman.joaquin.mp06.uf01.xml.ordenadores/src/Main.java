@@ -21,8 +21,7 @@ public class Main {
         logic.serializeOrdenadores(ordenadores, ARCHIVO_LISTA);
 
         Ordenador deserializedOrdenador = logic.deserializeOrdenador(ARCHIVO_INDIVIDUAL);
-        System.out.println("\nAlumno deserializado desde archivo: ");
-        System.out.println(deserializedOrdenador);
+        System.out.println("\nAlumno deserializado desde archivo: " + deserializedOrdenador);
 
         List<Ordenador> deserializedOrdenadores = logic.deserializeOrdenadores(ARCHIVO_LISTA);
         System.out.println("\nLista de alumnos deserializada desde archivo: ");
